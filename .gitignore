@@ -10,6 +10,8 @@ __pycache__/
 myenv/
 dl_pytorch_env/
 
+data/
+
 # Ignore installed packages in the virtual environment
 *.egg-info/
 *.pyc
